@@ -10,7 +10,7 @@ import org.apache.jackrabbit.oak.spi.state.NodeState
 import org.apache.jackrabbit.oak.spi.state.NodeStateUtils
 import org.apache.jackrabbit.oak.spi.state.NodeStore
  
-updatedCheckpoint="<enter created checkpoint here>";
+updatedCheckpoint="5bc23ea8-ac42-4d3d-b790-0d8e266f789b";
 indexLane = "async"
 NodeBuilder childBuilder(NodeBuilder root, String path){
  NodeBuilder nb = root;
